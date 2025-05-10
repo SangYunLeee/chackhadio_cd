@@ -1,0 +1,12 @@
+# backend
+backend:
+  name: chackhadio-nextjs
+  replicaCount: 2
+  image:
+    repository: "sororiri/chackhadio"
+    tag: 1
+# ingress
+ingress:
+  backend:
+    host: chackhadio.entto.shop
+namespace: chackhadio
