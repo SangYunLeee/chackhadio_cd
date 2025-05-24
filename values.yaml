@@ -1,7 +1,7 @@
 # backend
 backend:
   name: chackhadio-nextjs
-  replicaCount: 2
+  replicaCount: 1
   image:
     repository: "sororiri/chackhadio"
     tag: 14
