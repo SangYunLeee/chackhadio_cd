@@ -4,7 +4,7 @@ backend:
   replicaCount: 2
   image:
     repository: "sororiri/chackhadio"
-    tag: 13
+    tag: 14
 # ingress
 ingress:
   backend:
