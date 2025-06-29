@@ -8,5 +8,5 @@ backend:
 # ingress
 ingress:
   backend:
-    host: chackhadio.entto.shop
+    host: www.chakanifilm.com
 namespace: chackhadio
